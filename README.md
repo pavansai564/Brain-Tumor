@@ -1,7 +1,7 @@
 # Brain-Tumor
 
 
-
+This project successfully developed and evaluated deep learning-based frameworks for brain tumor detection and segmentation using advanced neural network architectures, including MobileNet, DenseNet, and U-Net variants. Each model was rigorously trained and tested on a comprehensive dataset of MRI images, demonstrating varying levels of accuracy and reliability. The MobileNet model exhibited exceptional performance with an accuracy of 99%, effectively distinguishing between tumor and non-tumor cases while maintaining low misclassification rates. DenseNet also showed promising results, achieving high precision and recall, though with slightly lower accuracy than MobileNet.
 
 
 Homepage Overview: The homepage of Life Care introduces the urgent tumor diagnosis service powered by AI and advanced imaging technologies. It highlights the commitment to providing timely support and information regarding brain tumor diagnosis and treatment.
